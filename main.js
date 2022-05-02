@@ -9,10 +9,15 @@ let rollsdb = {};
 let farms = {};
 
 rollsArray.forEach(function (roll) {
-  let re = /-\s+[a-zA-Z]+.*:\s+[a-zA-Z\s]+/i;
+  let re = /-\s+[a-zA-Z]+.*:\s+[a-zA-Z\s]+/gi;
   let match = roll.match(re);
   if (match) {
     let name = roll.split("- ")[1].split(": ")[0];
+    // if it already exists in the db, append a number to the end of the name
+    if (rollsdb[name]) {
+      name += ` ${Math.floor(Math.random())}`;
+    }
+
     rollsdb[name] = roll;
   }
   let re2 = /To look at: (\s([a-zA-Z]+\s)+)/i; // farms
@@ -61,6 +66,26 @@ function fuzzyMatch(query, dict) {
       return rankings[a] - rankings[b];
     })
     .slice(0, 2);
+  // trim rankings to top 10
+  let top10 = Object.keys(rankings)
+    .sort(function (a, b) {
+      return rankings[a] - rankings[b];
+    })
+    .slice(0, 10);
+  // add the bottom 10 to the top 10
+  let bottom10 = Object.keys(rankings)
+    .sort(function (a, b) {
+      return rankings[b] - rankings[a];
+    })
+    .slice(0, 10);
+  top10 = top10.concat(bottom10);
+
+  // make a dict of top 10 with rollsdb
+  let top10dict = {};
+  top10.forEach(function (key) {
+    top10dict[key] = [rollsdb[key], rankings[key]];
+  });
+  console.table(top10dict);
   return [rollsdb[top2[0]], rollsdb[top2[1]]];
 }
 const { Client, Intents } = require("discord.js");
