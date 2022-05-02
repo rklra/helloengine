@@ -15,7 +15,8 @@ rollsArray.forEach(function (roll) {
     let name = roll.split("- ")[1].split(": ")[0];
     // if it already exists in the db, append a number to the end of the name
     if (rollsdb[name]) {
-      name += ` ${Math.floor(Math.random())}`;
+      name += ` ${Math.floor(Math.random() * 10 + 1)}`;
+      console.log("Deduped name: " + name);
     }
 
     rollsdb[name] = roll;
@@ -111,12 +112,20 @@ client.on("interactionCreate", async (interaction) => {
     let embed = new Discord.MessageEmbed().setTitle("Results for " + query);
     if (results.length > 1) {
       embed.addFields(
-        { name: "PVE roll", value: results[0] },
-        { name: "PVP roll", value: results[1] }
+        { name: "Option 1 (Probably PVE)", value: results[0] },
+        { name: "Option 2 (Probably PVP)", value: results[1] }
       );
     } else {
       embed.addFields({ name: "Roll", value: results[0] });
     }
+    embed.setFooter(
+      "If you're not sure, try searching for the name of the roll in the document!"
+    );
+    // add a url to the title
+    embed.setURL(
+      "https://docs.google.com/document/d/1CgUldHHOPzNCc4hKiC0Q7hO0V-t6mRn-yR6ks9IQnQ4/edit"
+    );
+
     interaction.reply({ embeds: [embed] });
   }
 });
