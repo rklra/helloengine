@@ -73,6 +73,11 @@ function fuzzyMatch(query, dict) {
 const { Client, Intents } = require("discord.js");
 const token = process.env.TOKEN;
 
+function norm(leven) {
+  //i will eventually deal with this
+  return leven;
+}
+
 // Create a new client instance
 const client = new Client({ intents: [Intents.FLAGS.GUILDS] });
 
@@ -94,16 +99,20 @@ client.on("interactionCreate", async (interaction) => {
     if (results.length > 1) {
       embed.addFields(
         {
-          name: `Option 1 (Probably PVE) [Cfd=${levenschtienDistance(
-            query,
-            results[0].split("- ")[1].split(": ")[0]
+          name: `Option 1 (Probably PVE) [Cfd=${norm(
+            levenschtienDistance(
+              query,
+              results[0].split("- ")[1].split(": ")[0]
+            )
           )}]`,
           value: results[0],
         },
         {
-          name: `Option 2 (Probably PVP) [Cfd=${levenschtienDistance(
-            query,
-            results[1].split("- ")[1].split(": ")[0]
+          name: `Option 2 (Probably PVP) [Cfd=${norm(
+            levenschtienDistance(
+              query,
+              results[1].split("- ")[1].split(": ")[0]
+            )
           )}]`,
           value: results[1],
         }
@@ -112,7 +121,7 @@ client.on("interactionCreate", async (interaction) => {
       embed.addFields({ name: "Roll", value: results[0] });
     }
     embed.setFooter(
-      "If you're not sure, try searching for the name of the roll in the document! (Cfd. = Confidence, lower is better)"
+      "If you're not sure, try searching for the name of the roll in the document! (Cfd. = Confidence, 100=perfect)"
     );
     // add a url to the title
     embed.setURL(
