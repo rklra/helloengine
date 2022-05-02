@@ -121,7 +121,7 @@ client.on("interactionCreate", async (interaction) => {
       embed.addFields({ name: "Roll", value: results[0] });
     }
     embed.setFooter(
-      "If you're not sure, try searching for the name of the roll in the document! (Cfd. = Confidence, 100=perfect)"
+      "If you're not sure, try searching for the name of the roll in the document! (Cfd. = Confidence, lower is better)"
     );
     // add a url to the title
     embed.setURL(
