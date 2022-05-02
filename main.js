@@ -112,14 +112,26 @@ client.on("interactionCreate", async (interaction) => {
     let embed = new Discord.MessageEmbed().setTitle("Results for " + query);
     if (results.length > 1) {
       embed.addFields(
-        { name: "Option 1 (Probably PVE)", value: results[0] },
-        { name: "Option 2 (Probably PVP)", value: results[1] }
+        {
+          name: `Option 1 (Probably PVE) [Cfd=${levenschtienDistance(
+            query,
+            results[0].split("- ")[1].split(": ")[0]
+          )}]`,
+          value: results[0],
+        },
+        {
+          name: `Option 2 (Probably PVP) [Cfd=${levenschtienDistance(
+            query,
+            results[1].split("- ")[1].split(": ")[0]
+          )}]`,
+          value: results[1],
+        }
       );
     } else {
       embed.addFields({ name: "Roll", value: results[0] });
     }
     embed.setFooter(
-      "If you're not sure, try searching for the name of the roll in the document!"
+      "If you're not sure, try searching for the name of the roll in the document! (Cfd. = Confidence, lower is better)"
     );
     // add a url to the title
     embed.setURL(
