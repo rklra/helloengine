@@ -1,6 +1,6 @@
+﻿Primary PvP Rolls done. Special PvP Rolls WIP
 Primary PvP Rolls done. Special PvP Rolls WIP
-To combat style mods
-Weapons
+PvE Weapons Rolls
 Scout Rifles
 Kinetic Scouts
 Energy Scouts
@@ -15,6 +15,13 @@ kinetic HCs
 energy HCs
 SMGs
 kinetic SMGs
+Energy SMGs
+Sidearms
+Kinetic Sidearms
+Energy sidearms
+Bows
+Kinetic bows
+Energy bows
 Snipers
 Kinetic Snipers
 Energy Snipers
@@ -29,11 +36,35 @@ Energy Glaives
 Shotguns
 Kinetic slug shotguns
 Energy slug shotguns
+Trace Rifles
+Energy Trace Rifles
 Linear Fusion Rifles
 Rocket Launchers
 Machine Guns
 Swords
 Heavy GLS
+PvP Weapon Rolls
+Scout Rifles
+Kinetic Scouts
+Energy Scouts
+Pulse Rifles
+Kinetic Pulses
+Energy Pulses
+Auto Rifles
+Kinetic Auto Rifles
+Energy Auto Rifles
+Hand Cannons
+Kinetic Hand Cannons
+Energy Hand Cannons
+SMGs
+Kinetic SMGs
+Energy SMGs
+Sidearms
+Kinetic Sidearms
+Energy sidearms
+Bows
+Kinetic Bows
+Energy bows
 PvE Weapons Rolls
 All perks listed are recommened. “If bad” means that its worse than alternative recommended perks, but the perk is still a good choice. “If worse” is a bit worse that “if bad.” “High tier” and “strong” is a very good choice and “god tier” is literally the best across all weapons in the weapon type.
 
@@ -225,6 +256,7 @@ energy HCs
 - ancient gospel: rapid hit / outlaw + KC / dragonfly / swash
 - waking vigil: rapid hit / outlaw + dragonfly / KC
 - cantata: rapid hit + TP
+- crisis inverted: outlaw / stats / demo (if nades) / rapid hit + junkie (strong with demo) / adaptive ammo / KC / OFA
 - palindrome: overflow / outlaw / subsistence(vaulted) + OFA / rampage(vaulted)
 - nation of beasts: outlaw + rampage / EP / KC / dragonfly(curated)
 - bottom dollar: FTTC / feeding frenzy / subsistence / rapid hit / outlaw + MKC / rampage / demo(if grenades) / dragonfly / EP
@@ -803,7 +835,8 @@ to farm: none (none are easily farmable and also GLs are just generally bad)
 
 
 —————————————————————————————————————————— 
-________________
+
+
 PvP Weapon Rolls
 Scout Rifles
 Scout’s role in PvP: Plink-plonk, lane-holding, team-shot, precision weapon. Most maps don’t have the range to make scouts worthwhile
@@ -1146,4 +1179,4 @@ Arsenic bite
 
 
 Best to worse for GENERAL PLAY
-doe
+Doesn’t really matter, all pref
