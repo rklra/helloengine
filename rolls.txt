@@ -1,0 +1,1149 @@
+Primary PvP Rolls done. Special PvP Rolls WIP
+To combat style mods
+Weapons
+Scout Rifles
+Kinetic Scouts
+Energy Scouts
+Pulse Rifles
+kinetic pulses
+energy pulses
+Auto Rifles
+kinetic ARs
+energy ARs
+Hand Cannons
+kinetic HCs
+energy HCs
+SMGs
+kinetic SMGs
+Snipers
+Kinetic Snipers
+Energy Snipers
+Grenade Launchers
+Kinetic GLs
+Energy GLs
+Fusion Rifles
+Kinetic Fusion Rifles: just deliverance (is stasis btw)
+Energy Fusion Rifles
+Glaives
+Energy Glaives
+Shotguns
+Kinetic slug shotguns
+Energy slug shotguns
+Linear Fusion Rifles
+Rocket Launchers
+Machine Guns
+Swords
+Heavy GLS
+PvE Weapons Rolls
+All perks listed are recommened. “If bad” means that its worse than alternative recommended perks, but the perk is still a good choice. “If worse” is a bit worse that “if bad.” “High tier” and “strong” is a very good choice and “god tier” is literally the best across all weapons in the weapon type.
+
+
+For barrels and mags, “-” means “>” and “/” means “=”
+Scout Rifles
+Scout Rifle's role in PvE: Long range precision weapon. Like a sniper, but less damage and faster RPM. Lowish damage but long range means it's mostly used in master content
+Barrels: More handling - stability. Mags: reload speed / mag size
+
+
+Kinetic Scouts
+- Hung Jury: Subsistence / rapid hit(high tier) / bottom grief(if bad) + junkie(if bad) / OFA / explosive payload / firefly
+- Perses: Rapid hit / shoot to loot(if lazy) + OFA / headstone / EP 
+- Servant Leader: FTTC (if you hit crits) / outlaw / rapid hit(high tier) / subsistence + rampage / KC / junkie / OFA / MKC / frenzy
+- Guiding sight: rapid hit + OFA / vorpal
+- Talons of the eagle: outlaw / full auto(if bad) + rampage / EP
+- Scholar: delete
+- night watch: subsistence / overflow(curated only) / outlaw / rapid hit + EP / rampage / demo(if grenades) / MKC(if bad)
+- Transfiguration: triple tap(if bad) / rampage / outlaw(curated) + KC / EP(curated), probably delete
+
+
+best to worse imo
+night watch / hung jury
+servant leader
+all else
+
+
+to look at: night watch, hung jury, servant leader, perses
+to farm: night watch (curated from 3rd new light campaign mission), servant leader (gambit focusing)
+Energy Scouts
+- pointed inquiry: FTTC / genesis(if adaptive) + adaptive munitions / focus fury(if fttc) / dragonfly
+- contingency plan: subsistence / outlaw + KC / frenzy / OFA
+- Vision of confluence: wewind wounds + firefly / KC / frenzy
+- trustee: recon / outlaw + redirect(for endgame) 
+- aisha's: triple tap + fttc / MKC / focus fury
+- royal chase: field prep + dragonfly / MKC, probably delete
+- vouchsafe: rapid hit / outlaw / FTTC + dragonfly / EP / MKC
+- eternal blazon: overflow / rapid hit + OFA / KC(no overflow) 
+- pleidas corrector: field prep / FTTC / outlaw / subsistence + MKC
+
+
+best to worse imo
+vouchsafe / eternal blazon / vision
+aisha / contingency
+trustee / pointed
+all else
+
+
+to look at: all above
+to farm: vouchsafe (dreaming city and focusing), vision (vog enc 1, 2, 3), truste (dsc enc 1), aisha (trials), pointed (craft)
+
+
+—————————————————————————————————————————— 
+Pulse Rifles
+Pulse Rifle's role in PvE: 2nd longest range primary gun archetype with generally better damage than scouts
+barrels: stability - range - recoil direction. Mags: reload speed / mag size - stability
+kinetic pulses
+- chattering bone: outlaw + rampage
+- Messenger: rapid hit(high tier) / outlaw / stats for all(if bad) + OFA / desperado / KC / frenzy
+- cold denial: feeding frenzy + MKC / swash
+- piece of mind: overflow / stats for all / motion(if bad) + focus fury(strong with overflow) / junkie
+- sacred provenance: rapid hit(high tier) / outlaw + KC
+- syncopation: outlaw + headstone / frenzy
+- hailing confusion: outlaw + demo(if grenades), probably delete
+- legal action: feeding frenzy + rampage / junkie / frenzy
+- time-worn spire: feediny frenzy / subsistence + rampage / OFA 
+
+
+best to worse imo
+messenger / sacred provenance
+chattering bone
+legal action / time worn spire 
+all else
+
+
+to look at: messenger, sacred prov, synco, legal action, chattering bone
+to farm: messenger (trials), sacred prov (gos enc 3), piece of mind (psiops and focusing), synco (craft)
+energy pulses
+- last perdition: outlaw + rampage / KC
+- premonition: feeding frenzy + rampage
+- insidious: dragonfly(strong with rampage/OFA) / demo(if grenades) / rapid hit (high tier) + adaptive munitions / OFA / junkie / rampage
+- forge's pledge: probably delete
+- jian rifle: disruption break + outlaw / swash / rampage, probably delete
+- gridskipper: probably delete
+- stars in shadow: outlaw / feeding frenzy / field prep + KC / dragonfly / demo(if grenades)
+- jurassic green: subsistence + frenzy / junkie
+- ogma: adaptive munitions / demo(if grenades) + junkie(strong with demo) / dragonfly / disruption break(strong with adaptive) / OFA / turnabout (if bad, but good w/ adaptive)
+- darkest before: overflow / subsistence + OFA / rampage
+- BxR battler: outlaw / demo(if grenades) + KC / BXR(if ponch) / junkie(strong with demo)
+- third axiom: feeding frenzy / subsistence + OFA / rampage / MKC / dragonfly
+
+
+best to worse imo
+last perdition / insidious / ogma
+BxR / third axiom / stars
+all else
+
+
+to look at: insidious, stars, BxR, ogma, axiom, premonition
+to farm: insidious (vow enc 2, 4), bxr (dares), darkest before (proph enc 3)
+
+
+—————————————————————————————————————————— 
+Auto Rifles
+Auto rifle's role in PvE: Sustained damage at medium range
+Barrels: stability / range. Mags: Stability / range / mag size
+kinetic ARs
+- duty bound: Triple tap / motion / stats for all + OFA / frenzy / rampage / FTTC
+- last breath: demo / subsistence + junkie(good w/ demo) / OFA / frenzy
+- braytech werewolf: probably delete
+- scathelocke: subsistence + rampage / MKC / junkie
+- tigerspite: outlaw / overflow / subsistence + swash / demo(if grenades) / frenzy
+- chroma rush: feeding frenzy / subsistence + junkie / rampage / KC 
+- 7th seraph carbine: FTTC + vorpal / rampage / junkie
+- foward path: feeding frenzy / FTTC + swash / MKC
+- herod: motion / FTTC / subsistence / stats for all + focus fury / headstone / demo / OFA / frenzy / MKC
+- krait: overflow / subsistence / stats for all + headstone / focusy fury / OFA
+- false promises: overflow / feeding frenzy / subsistence + rampage / swash
+- horror story: subsistence / outlaw + demo, probably delete
+
+
+best to worse imo
+chroma / krait / last breath
+7th seraph / scathelocke / last breath
+herod / tigerspite
+
+
+to look at: krait, herod, last breath, scathelocke
+to farm: duty bound (NFs), last breath (proph enc 2), tigerspite (dreaming city focus)
+energy ARs
+- arctic haze: triple tap / outlaw / subsistence + dragonfly / thresh, probably delete
+- age-old bond: triple tap / FTTC(curated) + KC / dragonfly / rampage(curated)
+- gnawing hunger: subsistence / ALH(if worse) / field prep(if bad) + rampage(high tier) / KC / MKC / swash / demo(if grenades)
+- come to pass: triple tap / stats for all / motion / genesis(if adaptive) + dragonfly / adaptive ammo / OFA 
+- sweet sorrow: triple tap / motion + demo (if grenades) / OFA / focus fury(strong w/ tap)
+- chyrsura melo: outlaw / FTTC + demo(if grenades) / frenzy / MKC / dragonfly
+- summoner: overflow / motion(if bad) + rampage / MKC / focus fury
+- shadow price: FTTC / feeding frenzy / overflow / bottomless grief(if bad) + OFA / swash / dragonfly
+- number: delete
+- sorrow's verse: FTTC / feeding frenzy / subsistence / outlaw + OFA / frenzy / junkie / demo(if grenades) / MKC / rampage
+- arc logic: overflow / subsistence / feeding frenzy + demo(if grenades) / rampage / junkie / frenzy / surrounded
+- reckless oracle: outlaw + any perk
+
+
+best to worse imo
+Summoner (adept)
+gnawing hunger / arc logic / summoner
+shadow price
+oracle / age old bond
+all else
+
+
+to look at: arc logic, summoner, shadow price, 
+to farm: summoner(trials focus), oracle (gos enc 2), come to pass(wellspring, craft), sweet sorrow(craft)
+
+
+—————————————————————————————————————————— 
+Hand Cannons
+Hand Cannon's role in PvE: mid range, high damage-per-shot
+barrels: range / handling - stability. Mag: reload / mag size - range
+kinetic HCs
+- ballyhoo: hipfire grip
+- eyasluna: rapid hit / outlaw / unrelenting(if need healing, good with headstone) + headstone / demo(if grenade) / KC
+- survivor's epitah: outlaw / rapid hit / subisstence / feeding frenzy + frenzy / junkie / OFA / KC,
+- fatebringer: wewind wounds(if bad) / explosive payload + frenzy / firefly / KC(if bad)
+- judgment: demo + junkie
+- vulpecula: outlaw / shoot-2-loot(good with EP) + headstone / MKC / EP
+- steady hand: outlaw + swash
+- true prophecy: field prep(if bad) / overflow + EP / rampage / demo(if grenade)
+- dire promise: overflow / triple tap + swash
+- 7th seraph revolver: assassin / FTTC + feeding frenzy / timed payload / MKC
+- loud lullaby: subsistence + KC / frenzy / EP
+- crimil's dagger: outlaw / triple tap + KC / timed payload / EP
+
+
+best to worse imo
+ballyhoo
+fatebringer
+eyasluna
+judgment / 7th / true proph
+dire / vulpecula
+all else
+
+
+to look at: fatebringer, eyasluna
+to farm: eyaluna (goa enc 3), fatebringer (vog enc 3, 4), judgment (proph enc 1) 
+energy HCs
+- annual skate: outlaw / triple tap + dragonfly / MKC / swash / TP
+- ancient gospel: rapid hit / outlaw + KC / dragonfly / swash
+- waking vigil: rapid hit / outlaw + dragonfly / KC
+- cantata: rapid hit + TP
+- palindrome: overflow / outlaw / subsistence(vaulted) + OFA / rampage(vaulted)
+- nation of beasts: outlaw + rampage / EP / KC / dragonfly(curated)
+- bottom dollar: FTTC / feeding frenzy / subsistence / rapid hit / outlaw + MKC / rampage / demo(if grenades) / dragonfly / EP
+- frontier's cry: rapid hit / adaptive ammo + OFA / KC
+- ikelos HC: subsistence / triple tap + rampage
+- nature of beasts: subsistence + dragonfly / demo, delete
+- posterity: rapid hit / feeding frenzy / fttc / recon + OFA / redirect / demo / rampage
+- finite impactor: stats + MKC / OFA, delete
+- igneous hammer: rapid hit / outlaw / subsistence / overflow + rampage / OFA 
+
+
+best to worse imo
+palindrome
+ancient gospel / nation of beasts
+annual skate / waking vigil
+igneous / bottom dollar
+all else
+
+
+to look at: palindrome, posterity, gospel, vigil, bottom dollar, igneous
+to farm: palindrome (NFs), gospel (gos enc 3), vigil (dreaming city focus)
+
+
+—————————————————————————————————————————— 
+SMGs
+SMG's role in PvE: close range and full auto. Good if headshots are hard for u in CQC
+barrels: recoil / stability. mags: mag size / reload - stability / range
+kinetic SMGs
+- extraordinary rendition: subsistence / overflow / outlaw + MKC / rampage / OFA / frenzy
+- cold front: subsistence + rampage / swash / surrounded / OFA / 
+- friction fire: subsistence + rampage
+- forensic nightmare: grave robber / motion / slideways + swash / headstone
+- escape velocity: overflow / threat detector + surrounded
+- submission: overflow / subsistence / motion / sleight of hand(if bad, good with harmony) + frenzy / demo / swash / harmony
+- multimach: subsistence / threat + KC / OFA 
+
+
+best to worse imo
+submission / extraordinary
+cold front / multimach / forensic
+
+
+to look at: submission, forensic, multimach
+**to farm: submission (vow enc 1, 2, 3, craft), forensic (craft), cold front (dawning)
+Energy SMGs
+- 7th seraph: FTTC / assassin + dragonfly / feeding frenzy
+- borrowed time: grave robber / FTTC / overflow / threat / feeding frenzy + junkie / dragonfly / frenzy / demo / swash / rampage / OFA / surrounded
+- ikelos SMG: threat / subsistence / grave + surrounded / demo
+- stochastic variable: feeding frenzy / assassin + dragonfly / MKC 
+- death adder: feeding frenzy / mulligan(if bad) / subsistence + dragonfly 
+- mida mini (curated): hipfire + KC
+- funnelweb: subsistence / motion (if bad) + frenzy (high tier) / thresh / junkie
+- shayura’s wrath: motion(high tier) / DSR / killing wind / moving target / hipfire / QD + KC / junkie / tricorn(if bad)
+- every waking moment: subsistence / assassin + KC / junkie / dragonfly / MKC
+
+Best to worse imo
+Funnelweb / shayura’s
+Ikelos / borrowed time
+All else
+
+
+To look at: borrowed time, shayura, ikelos, funnelweb
+To farm: borrowed time (gambit focus), shayura (trials until s17)
+
+
+——————————————————————————————————————————
+Sidearms
+Sidearm’s role in PvE: Scout rifles with SMG range and a bit more damage.
+Barrels: Range - Stability / Recoil. Mags: Mag size - range - stability
+- If possible, use full auto as a mod instead of a trait perk. Full auto as a trait is good too tho.
+- If recommended below, use full auto as a trait b/c it’s equal or better vs other traits in that slot
+Kinetic Sidearms
+- Farewell: Subsistence + Frenzy / junkie / MKC
+- Peacebond: motion / subsistence + surrounded / swash / headstone
+- High albedo: threat / full auto + demo, probably delete
+- enigma’s draw: graverobber / full auto(if bad) + demo / swash
+- lonesome: anything except zen + swash / KC / demo / MKC
+- spoiler alert: feeding frenzy / threat + frenzy / demo / swash
+- empirical evidence: motion + swash, probably delete
+
+Best to worse imo
+Peacebond / spoiler
+Lonesome / farewell
+Enigma
+
+
+To look at: idk these sidearms all have very similar perks. Look at intrinsic frame ig
+To farm: empirical evidence (craft)
+Energy sidearms
+- fool’s remedy: subsistence / feeding frenzy + KC 
+- punching out: overflow / feeding frenzy / subsistence / grave robber / threat + junkie / frenzy / KC / swash / surrounded
+- Keening: grave robber / rapid hit / subsistence + OFA / MKC / surrounded / dragonfly
+- swift verdict: threat / full auto / slideshot + KC / surrounded
+- redback: subsistence / motion / stats for all + OFA / rampage / surrounded
+- last dance: threat / outlaw + KC / dragonfly 
+- brass attacks: feeding frenzy / rapid hit / threat + OFA / rampage / frenzy / dragonfly
+- Drang (curated): moving targe / rampage
+- vision: grave robber + KC / OFA / swash 
+- 7th seraph: field prep(if bad) / threat / demo / full auto(if bad) + dragonfly / surrounded 
+
+
+Best to worse imo
+Punching out / brass attacks
+Keening
+7th / fools
+Redback
+
+
+To look at: intrinsic frame only, traits are all roughly the same
+To farm: swift verdict (proph enc 2), drang (quest)
+
+
+—————————————————————————————————————————— 
+Bows
+Bow’s role in PvE: Highest range (no dmg falloff), slowest firing, high damage, pre cision weapons
+Bowstring: draw time - accuracy. Arrow: reload / accuracy
+Kinetic bows
+- whispering slab: archer’s tempo + swash / demo
+- fel taradiddle: stats / motion / archer’s (high tier) / shoot2loot(if bad) + explosive head / junkie / warmup(high tier) / OFA
+- biting winds: rapid hit + swash / explosive head
+- accrued redemption: archer’s + explosive head / rapid hit / rampage
+
+
+Best to worse imo
+Fel 
+Accrued
+biting
+Whispering
+
+
+To look at: accrued
+To farm: accrued (gos enc 1), fel (craft)
+Energy bows
+- under your skin: motion(if bad) / archer’s + explosive / dragonfly / warmup / adaptive ammo
+- arsenic bite: rampage / dragonfly + explosive head / archer’s
+- tyranny of heaven: archer’s + rampage / explosive head
+- point of the stag (curated): archer’s + vorpal
+- imperial needle: archer’s / impulse amp(if bad) + frenzy
+- wolftone draw: impulse amp / archer’s(high tier) / shoot2loot(if dragonfly) + demo / dragonfly / frenzy
+
+
+Best to worse imo
+Arsenic / under your skin
+Wolftone / imperial
+Tyranny
+
+
+To look at: idk they’re all pretty much the same
+To farm: under you skin (psiops, focus, craft), point of the stag (exotic kiosk)
+
+
+—————————————————————————————————————————— 
+Snipers
+Sniper's role in PvE is to do BIG DAMAGE quick on bigger enemies or LONG TERM BOSS DPS. Most of below is DPS cuz all snipers do decent big quick damage
+
+
+FOR ALL SNIPERS: 140 rpm have BEST BURST, 72 rpm have BEST TOTAL DAMAGE and BEST DAMAGE PER SHOT, 90 rpm are DECENT to GOOD AT EVERYTHING REGARDING DAMAGE 
+
+
+Barrels: handling - range. Mags: Mag size - reload
+Kinetic Snipers
+- Supremacy: delete
+- Silicon Neuroma: triple tap + focus fury / firing line / frenzy(if u have too)
+- Tranq: ALH + firing line / frenzy(if bad)
+- Praedyths: Rewind + high-impact reserves
+- Succession: reconstruction(god tier) + vorpal / recombo(not as good)
+- Eye of sol: probably delete
+- Bite of Fox: probably delete
+- sheppards watch: delete
+- thoughtless: overflow / rapid hit(if bad) + firing line / focus fury(if overflow)
+- long shadow: rapid hit / field prep + triple tap (but also prob delete)
+
+
+best to worst imo(assuming good roll)
+Succession
+Silicon (adept)
+thoughtless
+Silicon (normal)
+tranq
+else
+
+
+Look at: Succession, tranq, thoughtless, silicon
+Farm/craft: Succession (DSC enc 2 & 3, buyable at DSC kiosk), silicon (Nightfalls, GMs for adept), thoughtless (craftable). dont farm tranq 
+Energy Snipers
+- uzume: triple tap / bottomless grief(if bad) / clown cartridge(if worse) + vorpal / high-impact(if bad) + tact or app or ext mag (if possible, column 2 perks)
+- occulded finalty: ALH / rapid hit(if bad) + vorpal / firing line
+- far future: delete 
+- IKELOS SR: fttc / triple tap + high-impact + mag perk if possible
+- widows bite: delete
+- apostate: delete
+- fugue: ALH / fttc + focus fury / vorpal 
+- distant tumulus: clown cart + firing line, but prob delete
+- twilight oath: delete
+- long walk: overflow / clown cartridge(if bad) + firing line / frenzy(if bad)
+- omni eye: delete
+- frozen orbit: ALH / clown carts(if bad) / triple tap + vorpal / high impact(if bad)
+- fathers sins: field prep / triple tap + focus fury
+- 1k stare: probably delete
+- adored: literally curated roll and if u read list u should know whats good (same as uzume)
+
+
+best to worst imo(assuming good roll)
+uzume / fugue
+long walk / frozen orbit
+occluded
+adored
+else
+
+
+Look at: uzume (vaulted), fugue, occlud, frozen orbit, long walk
+Farm: Adored (curated), long walk (proph enc 1). No other energy sniper is easily craftable or farmable 
+
+
+—————————————————————————————————————————— 
+Grenade Launchers
+GRENADE LAUNCHERS' ROLE IN PVE:
+- ad clear (primary job), bLiNdiNg, and DPS
+- all GLs naturally do big blast damage (except blinding/concuss) and do big direct impact damage (so dont use proxy nades)
+Kinetic GLs
+- pardon dust AD CLEAR: ALH / Assassin + rampage / adr junkie / demo (if u like grenades)
+- pardon dust BLINDING: Blinding nades (not concussion, concussion sucks) + ALH / Assassin(if bad) + danger zone(high tier) / any AD CLEAR perk (column 4)
+- pardon dust DPS: Spike nades + ALH + vorpal
+
+
+- ignite code AD CLEAR: Assassin / field prep / slideshot + frenzy / OFA / demo(if u like grenades)
+- ignite code BLINDING: Blinding nades (concussion sucks) + any AD CLEAR PERK (column 3) + danger zone(high tier) / any AD CLEAR perk (column 4)
+- ignite code DPS: Slideshot / field prep(if bad) + vorpal / frenzy(if bad)
+
+
+both do the same but pardon dust is obtainable via xur treasure horde / dares
+Note: kinetic GLs mainly for blinding so any kinetic GL with blinding is worth keeping until a replacement comes 
+Energy GLs
+waves:
+- forebearance AD CLEAR: assassin(god tier) / stats for all(if bad) + OFA(if bad) / rampage / chain reaction(god tier)
+- deafing whisper AD CLEAR: assassin / lead from gold(if worse) + ALH (if no assassin, also if bad) + rampage(high tier)
+- explode personality AD CLEAR: ALH / field prep / frenzy / stats for all(if bad) + OFA / frenzy
+
+
+normal:
+- truthteller AD CLEAR: field prep / ALH / feeding frenzy(high tier) + MKC / swash(if bad) / demo (if u like grenades)
+- truthteller BLINDING: Blinding nades + ALH / field prep(if bad) + literally anything
+- truthteller DPS: Spike nades + ALH + quickdraw (strong with izzi/rocket, ALH must have for izzi/rocket combo)
+
+
+- orewings maul DPS: same as truthteller
+- orewings maul AD CLEAR / BLINDING: prob just delete pretty sure its unobtainable anyway
+
+
+- empty vessel AD CLEAR: assassin / feeding frenzy / ALH / field prep + MKC / OFA / swash / demo (if nades)
+- empy vessel BLINDING: blinding + any AD CLEAR perk (col 3) + danger zone / any AD CLEAR perk (col 4)
+- empty vessel DPS: ALH / field prep(if bad) + vorpal. note: ALH + Vorpal empty vessel > ALH + QD truthteller
+
+
+- salvagers salvo AD CLEAR: Assassin / chain reaction
+- salvagers salvo DPS: demo / vorpal (good on atheon or any other grenade spam mode)
+
+
+best to worst imo for AD CLEAR(assuming good roll)
+salvagers
+forebearance (above or equal to salvagers if you cant aim OR if you need healing)
+deafing whisper / explode personality
+truthteller / empty vessel
+
+
+best to worst imo for DPS for izzi swapping(assuming ALH, cuz ALH is must have)
+vessel (must be ALH + Vorpal, spike is bonus)
+truthteller (must be ALH + spike, QD is bonus)
+otherwise, ALH vessel = ALH truthteller
+
+
+best to worst imo for GL only dps
+why would u use a gl for boss damage
+
+
+all blinding launchers work roughly the same
+
+
+farm: forbearance (VoW enc 2 & 4, craft), explode personality (PsiOps, focusing, craft), salvagers (quest) 
+
+
+—————————————————————————————————————————— 
+Fusion Rifles
+Fusion Rifle's role in PvE: Mid range DPS (primary role) and ad clear
+
+
+Barrels: Stability. Mags: Stability / faster charge time
+Kinetic Fusion Rifles: just deliverance (is stasis btw)
+Deliverance: almost 0 bad perks and will almost always be strong. Farm/craft for a specific roll to fit a specific playstyle. 
+Example playstyles:
+- CQC: Cornered / Surrounded (enhanced+spec = +47% damage)
+- Backup weapon OR Weapon swapping: Sleight of hand + Harmony
+- Fast charge time: Cornered + Warmup
+- Grenade build: Demo + Junkie
+- Status explosions: Complusive reloader (good with origin trait) + Chill clip
+- General play: Demo / Perp motion + Surrounded / warmup / junkie 
+Energy Fusion Rifles
+- Main ingredient: probably delete
+- Exile's curse: Slideshot + Vorpal. 
+- Plug 1: Feeding frenzy / adaptive munitions (for match game) + Junkie / Reserve burst (high tier, god tier w/ FF) / turnabout (high tier w/ Adaptive)
+- Hollow words: FF / Lead from gold(if bad) + vorpal / surrounded
+- Glacio: Slideshot / Subsistence / surplus(if bad) / threat detector(if bad) + Reserve burst(god tier) / swash(if bad) / demo(if u like grenades)
+- Likely Sus: Stats for all + one for all / warmup / turnabout.
+- Zealots reward: FF / ALH / Shield disorient(must be with disrupt break) + Rampage / high impact reserves / disruption break(does not need to be with shield disorient)
+- Cartesian: FF / Slideways / Lead from gold / grave robber(if bad) + swash(good with grave robber) / vorpal(high tier) / thresh?
+- Dream breaker: probably delete
+- Iota Draconis: FF + frenzy. still probably delete
+- Timeline vertex: Field prep / ALH / lead from gold(if bad) + disruption break / demo
+- Trinary system: FF / ALH / assassin(if bad) / slideways + swash / OFA / wellspring(if bad) / MKC (not with assassin) / thresh / disruption break / KC (not with disrupt break) / demo
+- Coriolis force: FF + OFA / thresh
+- Techeun force: Threat detect / KC + rampage / HIR
+- Snorri: Stats for all / compulsive(high tier w/ reserve burst) + frenzy / warmup / OFA / reserve burst(high tier, god tier w/ compulsive)
+- Null compusure (curated): FF + Reserve burst
+
+
+best to worse imo(assuming good roll)
+Glacio / Snorri / Cartesian
+Null / plug 1
+Likely suspect / trinary / hollow words / zealots
+all else
+
+
+Look at: Glacio, snorri, cartesian, plug, trinary
+farm: Plug 1 (NFs), Glacio (Dawning), Sus (craft), zealots (GoS enc 1), null (quest)
+
+
+—————————————————————————————————————————— 
+Glaives
+Glaive's role in PvE: Survivability via blocking and close range ad clear (like using a shotgun for clearing ads, but infinite ammo). Not DPS: Less CQC dps than a slug shotgun, less ranged dps than a grenade launcher. 
+Energy Glaives
+- The Enigma (endgame PvE): windmills / graverobber / impulse amp + unstoppable force / unrelenting / frenzy
+- The Enigma (casual PvE): literally anything but windmills + rampage / frenzy / thresh(if you spam supers) / unrelenting(if u r always hurt)
+- Lubrae's ruin (endgame PvE): impulse amp / immovable object(god tier with unstop force) / turnabout + unrelenting / unstoppable force(high tier) / surrounded
+- Lubrae's ruin (casual PvE): impulse amp / grave robber / turnabout(if bad) + surrounded / swash(god tier w/ grave robber) / vorpal(if bad b/c why would u use a glaive against a boss)
+
+
+both glaives work roughly the same
+farm: lubrae (craft, vow enc 4), enigma (craft)
+
+
+note: glaives have a high skill ceiling and requirement in order to be used effectively in endgame pve. its like choosing lament in a gm vs a normal heavy weapon: if you don't use glaives defensively, don't use them in endgame pve
+
+
+—————————————————————————————————————————— 
+Shotguns
+Shotgun's role in PvE: Highest special weapon dps (b/c close range) against bosses and minibosses OR specialized 1-2 punch builds (titan only). 
+for 1-2 punch: full choke + 1-2 punch
+
+
+Realistically, only use slugs for dps, with lightweights if you dont have a good slug replacement
+
+
+Barrels: Range / handling. Mags: faster RPM - reload - range
+
+
+Kinetic slug shotguns
+assault mag > light mag > tact mag / acc rounds
+- Blasphemer: FTTC + anything, probably delete anyway
+- Fortissimo: FTTC / demo(if bad) + focus fury / frenzy / vorpal(high tier) / surrounded
+- Heritage: ALH / Reconstruction(god tier) + recombo / snapshot(if bad) / moving target(if bad)
+
+
+best to worse imo
+heritage only
+
+
+look at: heritage
+farm: heritage (dsc enc 2 & 3, dsc kiosk), blasphemer (altars on shotgun day, only do if you dont have a heritage)
+Energy slug shotguns
+- Sojourners tale: ALH / rapid hit(if bad) + frenzy / surrounded
+- FILO: ALH + vorpal(high tier) / surrounded
+- Bonechiller: ALH / triple tap + demo / threat detector(if bad)
+
+
+best to worse imo
+FILO (w/ vorpal)
+Sojourners / FILO (no vorpal)
+bonechiller
+
+
+look at: all its only 3 guns
+farm: none of them, idk if filo is still obtainable, sojourners is vaulted, and bonechiller farming sucks
+
+
+—————————————————————————————————————————— 
+Trace Rifles
+Trace Rifles’ roll in PvE: Ammo efficient add clear. Like a machine gun, but special weapon.
+Energy Trace Rifles
+Retraced Path: subsistence / feeding frenzy + OFA / frenzy
+
+
+Is retraced path farming for?
+- Probably not, I’d prefer to just use a exotic
+Is retraced path worth keeping?
+- Only if you have the space
+
+
+——————————————————————————————————————————
+Linear Fusion Rifles
+
+
+Heavy linear fusion rifle's roll in PvE: High burst damage AND high total damage, given you hit crits
+Mags: Mag size. If more total damage: Liquid coils. If more burst damage: Accelerated coils
+
+
+- Cataclysmic: FTTC(high tier) / surplus(if bad) + focus fury(high tier) / bait&switch / clown cartridge(if bad) / HIR(if bad) / box breathing(if bad)
+- Reed's regret: Triple tap(high tier) / ALH / clown cartridge(if bad) + firing line / vorpal / focus fury
+- corsair's wrath: delete
+- tarantula: delete (only arc linear tho)
+- threaded needle: clown cartridge(if bad) / rapid hit / ALH / field prep(high tier) + vorpal / frenzy
+
+
+best to worse imo
+cataclysmic
+Reed's regret 
+threaded needle
+all else
+look at: reeds, cataclysmic, threaded needle
+farm: reeds (trials focusing), cataclysmic (vow enc 1 & 2, craft)
+
+
+—————————————————————————————————————————— 
+Rocket Launchers
+Rocket launcher's roll in PvE: Very high burst damage
+Mags: Impact casing - reload 
+
+
+- subzero salvo: Assassin + cluster bomb / demo
+- shining sphere: field prep / ALH + demo / tracking
+- tmrw's answer: impulse / ALH + lasting impression / cluster
+- ascendancy (curated): impulse amp + explosive light
+- bad omens: field prep / ALH + cluster
+- hothead: field prep(high tier) / ALH / impulse amp / demo(if bad) + clown cartridge(god tier) / vorpal / explosive light(high tier) / lasting impression
+- Hezen vengence: ALH / overflow / impulse amp (if bad) + vorpal / lasting impression / cluster(if bad)
+- royal entry: ALH / field prep / impulse amp(if bad) + lasting impression / clown cartridge(high tier, not w/ ALH) / cluster(if bad) 
+- code duello: field prep / ALH / impulse + lasting impression / cluster / frenzy 
+- apex predator: delete 
+- sleepless: ALH / field prep + vorpal
+- hoosegow: field prep / ALH + cluster
+- heretic: field prep / impulse amp(if bad) + impulse amp / cluster
+- red herring: ensemble(if teammates) / field prep(high tier) + frenzy / lasting impression
+- palmyra: impulse amp(if bad) / ensemble(if teammates) / ALH + lasting impression / frenzy(if bad) / explosive light
+
+
+best to worse imo for only rocket dps(by perk b/c rockets act very similar)
+column 3 (reload): field prep > ensemble(if teammates) impulse amp > overflow > ensemble(solo play) = all else
+- tracking is good if you really cant aim
+ column 4 (damage): clown cartridge > explosive light = lasting impression > vorpal = frenzy > cluster bomb > all else 
+ 
+best to worse imo for weapon swap dps (izzi, 2x slug, etc)by perks 
+column 3 (auto load perks): ALH > demo > overflow > all else
+column 4 (damage): explosive light = lasting impression > vorpal = frenzy > cluster bomb > all else
+- demo in col 4 is best if no ALH 
+
+
+look at: royal entry, palymyra, hezen, hothead
+farm: palymyra (craft), red herring (craft), hothead (NFs), hezen (vog enc 4 & 5), ascendancy (quest)
+
+
+note: some rockets come w/ intrinsic tracking (precision frames like palmyra, royal entry)
+
+
+—————————————————————————————————————————— 
+Machine Guns
+Machine gun's roll in PvE: Heavyweight, full auto add clear and basic DPS
+Barrels: Stability / handling. Mags: Reload - mag size - stability
+
+
+- THE SWARM: Outlaw / bottom grief / unrelenting(if need healing) + slideways(if u slide spam) / OFA / dragonfly / vorpal
+- avalanche: outlaw / ALH / subsistence + swash / dragonfly / junkie / vorpal
+- corrective measure: feeding frenzy / wewind wounds / subsistence / demo(if grenading, good w/ junkie) + OFA / firefly / junkie
+- recurrent impact: field prep / stats for all / subsistence / motion(if bad) + firing line / headstone / OFA / frenzy
+- thermal erosion: field prep + dragonfly / demo(if grenading)
+- archon's thunder: field prep / ALH + rampage 
+- shattered cipher: field prep / ALH / slideways(if u slide spam) + surrounded / rampage / junkie
+- 7th seraph SAW: ALH / field prep / clown + vorpal / disruption break(if match game) / firing line
+- fine memorial: ALH / clown / subsistence / field prep / assassin(if bad) + demo / junkie / frenzy / OFA
+- commemoration: recon(god tier) / feeding frenzy + rampage / dragonfly
+
+
+best to worse imo assuming good roll
+commemoration / fine memorial (pain to farm tho)
+corrective measure
+SAW
+SWARM
+avalanche
+all else
+
+
+look at: corrective measure, commemoration, fine memorial, recurrent, swarm
+farm: corrective (vog enc 1, 3, 5), commemoration (dsc enc 4), recurrent (war table focus, psiops, craft)
+
+
+—————————————————————————————————————————— 
+Swords
+Sword's roll in PvE: High, easy CQC burst DPS; good melee add clear; and good movement
+Blades: More ammo. Guard: Faster energy recharge rate
+
+
+- temptation hook: relentless / tireless (if bad) + vorpal / whirlwind(if bad)
+- guillotine 🇫🇷: relentless + surrounded(if bad) / whirlwind
+- sola's scar: relentless / tireless + chain reaction(high tier) / vorpal / thresh(if bad) / frenzy
+- abide the return: relentless + whirlwind / disruption break, probably delete
+- razor's edge: duelist's / relentless / unrelenting + OFA / thresh / chain reaction / frenzy, probably delete
+- hero of ages: relentless / demo(if grenades) / unrelenting + frenzy / chain reaction
+- quickfang (hunter only): relentless / thresh + OFA / assassin's
+- eternity's edge (warlock only): thresh / relentless + surrounded
+- crown-splitter (titan only): relentless / tireless (if bad) + vorpal / whirlwind / surrounded
+- honor's edge: relentless + shattering / surrounded, probably delete
+- half truths: thresh / relentless + eager edge
+- other half: eager + anything
+- bequest: see eternity's edge, prob delete
+- zephyr: duelists / tireless + cold steel
+- negative space: see abide the return
+- night terror: relentless / tireless + anything
+- steel sybil: prob delete
+
+
+best to worse imo for dps
+dps by frames:
+- vortex
+- lightweight / aggressive
+- adaptive
+- caster
+dps by weapon perks
+column 3:
+- relentless
+- duelists
+- all else
+column 4:
+- whirlwind
+- surrounded / vorpal
+- frenzy / shattering
+- all else
+
+
+best for utility: any eager edge sword
+
+
+notable add clear and utility perks: chain reaction, casters, cold steel, eager, shattering
+
+
+look at: guillotine 🇫🇷 , casters, eager swords, zephyr, vortex (if no good guillotine), class specifics
+to farm: eager (dares)
+
+
+—————————————————————————————————————————— 
+Heavy GLS
+Heavy Grenade Launcher's roll in PvE: honestly idrk probably burst dps and total damage. most 4th column perks are add clear but why add clear w/ heavy ammo? (unless LMG)
+
+
+Mags: Reload / mag size
+
+
+- berengers memory: delete
+- swarm of the raven: field prep / ALH + quickdraw? probably delete
+- canis major: field prep / clown / ensemble(if teammates) / imp amp + vorpal
+- interference: ALH / field prep / clown(if bad) + full court / demo(if bad)
+- blast battue: probably delete
+- tarnation: probably delete
+- memory interdict: probably delete
+- crowd pleaser: field prep / clown(if bad) + demo, probably delete
+- typhon: imp amp / demo(if bad) + chill clip(if stasis) / frenzy / explosive light
+- love and death: field prep / clown(if bad) / ALH + full court
+- outrage fortune: delete
+
+
+best to worse imo assuming good roll
+love & death
+interference
+canis / typhon (must have weapon for solo queenswalk as of 4/29/22, ask me for details)
+
+
+to look at: interference, love death, typhon
+to farm: none (none are easily farmable and also GLs are just generally bad)
+
+
+—————————————————————————————————————————— 
+________________
+PvP Weapon Rolls
+Scout Rifles
+Scout’s role in PvP: Plink-plonk, lane-holding, team-shot, precision weapon. Most maps don’t have the range to make scouts worthwhile
+Barrels: Handling / Stability. Mags: Stability / Range
+Kinetic Scouts
+- Hung Jury: Rapid hit / moving target + Box breathing
+- Perses: Rapid hit + Opening shot / headstone
+- servant leader: Rapid hit / outlaw / no distractions + KC / snapshot / MKC
+- Guiding sight: Rapid hit + iron gaze
+- Talons of the eagle: delete
+- scholar: Opening shot / slideways + capacitor / snapshot
+- night watch: rapid hit / snapshot + EP / moving target
+- Transfiguration: rampage + KC
+
+
+Best to worse imo
+Servant leader
+Hung jury
+Night watch
+Transfig
+
+
+To look at: Servant leader, Transfig
+To farm: Servant leader (gambit focus)
+Energy Scouts
+- pointed inquiry: delete
+- Contingency plan: surplus / no distractions + KC / capacitor
+- vision of confluence: delete
+- trustee: probably delete
+- aisha’s embrace: Stats / motion + MKC / Eye of the storm / vorpal
+- royal chase: probably delete
+- vouchsafe: rapid hit / surplus + EP / eye of the storm
+- eternal blazon: rapid hit / full auto(if bad) + KC
+- Pleiades corrector: probably delete
+
+
+Best to worse imo
+Aisha’s / Contingency
+All else 
+
+
+
+
+To look at: Contingency, Aisha’s
+To farm: probably none
+——————————————————————————————————————————
+
+
+Pulse Rifles
+Pulses role in PvP: Lane-holding, flinching weapon for mid to long ranges. Also good for dueling, with some peak shot potential
+Barrels/scopes: Recoil / Stability. Mags: Stability / Range
+Kinetic Pulses
+- Chattering bone: Full auto / rangefinder / outlaw + rampage / under pressure
+- Messenger: Rapid hit (high tier) / outlaw / moving target / killing wind / motion / heating up + desperado (god tier) / KC / headseeker(if bad) / capacitor
+- cold denial: probably delete
+- piece of mind: Stats / motion / overflow(strong with focus fury) + moving target / capacitor / focus fury(only good with overflow)
+- Sacred Provenance: Rangefinder / Full auto(if bad) / outlaw / Rapid hit(high tier) + KC 
+- Syncopath: Moving target + Rangefinder / headstone
+- Hailing Confusion: Firmly planted / Slideways + Capacitor / full auto
+- Legal action: probably delete
+- Time-worn spire: quickdraw(if bad) / moving target / under pressure / slideways + iron gaze (w/ high zoom scope) / iron grip (w/ reload mags)
+
+
+Best to worse imo
+Messenger
+Provenance / Piece of mind
+Hailing confusion / time-worn spire
+
+
+To look at: Messenger, piece of mind, provenance
+To farm: Provenance (gos enc 3), messenger (trials), piece of mind (craft)
+Energy Pulses
+- Last perdition: firmly planted / moving target + KC / full auto
+- premonition: moving target / killing wind + QD
+- insidious: rapid hit (high tier) / heating up + rampage
+- forge’s pledge: surplus / heating up + MKC / capacitor / iron grip(if bad)
+- Jian 7: firmly planted / full auto(if bad) + rangefinder
+- Gridskipper: any perk + MKC
+- stars in shadow: firmly planted / quickdraw / surplus / killing wind + eye of the storm / KC / headseeker / moving target / capacitor
+- Jurassic green: killing wind / rangefinder / heating up + MKC / unrelenting
+- Ogma: probably delete
+- Darkest before: any perk besides subsistence + full auto / capacitor / rampage / unrelenting
+- BxR battler: motion / snapshot / killing wind + BXR(niche) / KC / eye of the storm / capacitor / rangefinder
+- Third axiom: surplus / killing wind / slideways / moving target / rangefinder / slideshot / quickdraw + MKC / capacitor / rampage / unrelenting
+
+
+Best to worse imo
+Darkest before / BxR
+Insidious / stars
+Jurassic / Gridskipper
+
+
+To look at: BxR, insidious, stars
+To farm: darkest before (proph enc 3), insidious (vow 2 & 4), BxR (dares)
+
+
+——————————————————————————————————————————
+Auto Rifles
+Auto Rifles’ role in PvP: Mid-range, tracing, flinching, dueling weapon. More forgiving to misses compared to Hand Cannons.
+Barrels: Recoil - Stability / Range. Mags: Stability - Range
+Kinetic Auto Rifles
+- Duty bound: motion + DSR / rampage
+- Last Breath: DSR / slideshot(if bad) + rangefinder / adagio
+- BrayTech werewolf: DSR (high tier) / slideshot / under pressure + tap the trigger / eye of the storm
+- scathelocke: surplus / tunnel vision / heating up / under pressure + rampage / MKC / eye of the storm 
+- Tigerspite: Overflow / Surplus / Threat detector + KC / rangefinder 
+- Chroma rush: anything but subsistence + Tap the Trigger / rampage / KC
+- 7th carbine: slideways / threat + capacitor / rangefinder / moving target
+- forward path: DSR + eye of the storm / tap the trigger / MKC
+- Herod: motion / DSR / heating up + tap the trigger / capacitor / moving target / MKC
+- Krait: overflow + moving target / headstone
+- False promises: overflow / DSR + eye of the storm / rampage
+- horror story: Firmly planted + moving target
+
+
+
+
+Best to worse imo
+Scathelocke / forward path
+Chroma / last breath
+7th carbine
+
+
+To look at: Anything with DSR
+To farm: duty bound (NFs), last breath (proph enc 2)
+Energy Auto Rifles
+- Arctic haze: Killing wind + EotS
+- Age-old bond: DSR / TTT + KC / HIR(if bad)
+- Gnawing Hunger: TTT + Rampage / KC / MKC
+- Come to Pass: delete
+- Sweet sorrow: motion / wind / pulse + TTT 
+- Chysura Melo: DSR / heating up + MKC
+- Summoner: Overflow(if bad) / moving target / DSR / motion / heating up(if bad) / rangefinder + Rampage / capacitor / MKC
+- Shadow price: delete
+- Number: surplus / wind / threat / under pressure + HIR / MKC
+- sorrow’s verse: TTT / DSR / wind / heating up + capacitor / MKC / rampage
+- arc logic: overflow / slideways / wind + capacitor / rampage
+- reckless oracle: under pressure + KC
+ 
+Best to worse imo
+Summoner
+Gnawing hunger
+
+
+To look at: Summoner
+To farm: summoner (trials)
+——————————————————————————————————————————
+Hand Cannons
+Hand Cannons’ role in PvP: Mid-range, flicking, dueling weapon. Fewer shots are required than Auto Rifles to reach the best time to kill. Peak shot potential.
+Kinetic Hand Cannons
+- Eyasluna: Unrelenting, rapid hit(high tier), outlaw (if bad), heating up, motion(high tier), rangefinder(high tier) + headstone(if stasis), KC, moving target
+- Survivor’s epitaph: Firmly planted, wind, slideways, rapid hit + KC(high tier), EotS,
+- Fatebringer: wind / EP(high tier) + EotS / KC / Opening shot 
+- ballyhoo: hipfire grip
+- Judgment: moving target / slideshot + TP / MKC / Opening shot
+- Vulpecula: delete
+- Steady Hand: Wind / outlaw / slideshot / moving target + iron gaze(if bad) + swash
+- True prophecy: Rangefinder / overflow(if bad) / opening shot + EP / TP / rampage / capacitor
+- Dire promise: Opening shot(high tier) / snapshot / overflow(if bad) + rangefinder(high tier) / capacitor
+- 7th revolver: Firmly planted / threat + MKC
+- loud lullaby: moving target / slideshot / tunnel vision(strong with KC) + EP / KC(high tier) / EotS
+- Crimil’s dagger: moving target / outlaw(high tier) / rangefinder + TP / KC(high tier) / EP / opening shot
+
+
+Best to worse imo
+Ballyhoo
+Fatebringer / Eyasluna
+Dire
+Judgment
+Crimil’s dagger
+True prophecy / Steady hand 
+All else
+
+
+To look at: Dire, judgment, eyasluna, fatebringer, true prophecy
+To farm: Eyasluna (goa enc 3), fatebringer (vog enc 3, 4), judgment (proph enc 1).
+
+
+Energy Hand Cannons
+- annual skate: slideshot / surplus / no distractions + opening shot / TP / swash
+- ancient gospel: any perk + rangefinder / KC
+- waking vigil: any perk / rangefinder(high tier) + opening shot / KC 
+- Cantata: EotS(high tier) / rapid hit + moving target / opening shot / rangefinder
+- Palindrome: Quickdraw / overflow / killing wind / outlaw(if bad) + rangefinder / HIR / rampage (vaulted)
+- Nation of beasts: Opening shot / outlaw + EP / KC
+- bottom dollar: wind / surplus / rapid hit / QD / slideshot / rangefinder / outlaw + EotS / EP / opening shot
+- frontier’s cry: rapid hit + KC / EotS / iron reach
+- IKELOS hc: delete
+- nature of the beast: under pressure / QD(if bad) + rangefinder
+- igneous hammer: QD / wind / outlaw / rapid hit + moving target / capacitor / snapshot(bad unless w/ QD) / opening shot
+- crisis inverted: outlaw / rapid hit(high tier) / moving target / under pressure + opening shot / capacitor / rangefinder / KC
+- posterity: probably delete
+- finite impactor: firmly planted / wind / slideways(strong with focus fury) + capacitor / eots(vaulted) / focus fury(bad unless w/ slideways)
+
+
+Best to worse imo
+Palindrome (adept)
+Palindrome / Cantata
+Igneous / annual skate
+Finite impactor / crisis
+All else
+
+
+To look at: finite impactor, palindrome, cantata, igneous
+To farm: palindrome (NFs)
+
+
+——————————————————————————————————————————
+SMGs
+SMGs roll in PvP: Close range, high handling, spray guns. Dueling weapon, shotgun counter.
+Kinetic SMGs
+- extraordinary rendition: overflow / surplus + TTT / MKC
+- cold front: surplus / QD / DSR / under pressure / motion + swash
+- friction fire: wind / threat + slideways
+- forensic nightmare: underpressure / motion / slideways + headstone / KC / swash
+- escape velocity: overflow / hipfire / threat + QD / capacitor
+- multimach: wind / hipfire / threat / QD / DSR + KC / iron reach(high tier)
+- submission: overflow / motion + wind / swash
+
+
+Best to worse imo
+Multimach
+Escape velocity / submission
+forensic
+All else
+
+
+To look at: multimach (vaulted), submission, cold front
+To farm: submission (vow enc 1, 2, 3), forensic (craft)
+
+
+Energy SMGs
+- 7th seraph: firmly planted / capacitor
+- borrowed time: rangefinder / wind / overflow / threat / DSR + swash / TTT
+- IKELOS smg: threat / DSR + TTT
+- stochastic variable: under pressure / wind / surplus + QD / capacitor
+- death adder: hipfire / DSR + rangefinder / QD / moving target / eots
+- shayura’s: wind / DSR / QD / moving target / motion / hipfire(if bad) + KC / TTT / capacitor 
+- every waking moment: QD / rangefinder / wind + KC / capacitor / MKC
+- MIDA mini (curated): hipfire + KC
+- funnelweb: motion / wind + capacitor / rangefinder
+
+
+Best to worse imo:
+Shayura’s
+IKELOS
+Variable / Borrowed
+MIDA mini
+All else
+
+
+To look at: IKELOS, borrowed, shayura’s
+To farm: shayura’s (trials), borrowed (gambit focus), MIDA mini (quest/gunsmith)
+——————————————————————————————————————————
+Sidearms
+Sidearms roll in PvP: Close range dueling weapon. Less RPM and more accuracy required than SMGs, but has the highest TTK vs all primaries. Skill required.
+Kinetic Sidearms
+- Farewell: probably delete
+- Peacebond: rangefinder / under pressure / motion / wind + swash / iron reach / headstone
+- high albedo: probably delete
+- Enigma’s draw: full auto / opening shot(if bad) + capacitor / rapid hit / rangefinder / swash
+- Lonesome: Full auto / rapid hit + KC / slideshot / swash / MKC
+- spoiler alert: wind / threat / under pressure + swash
+- Empirical evidence: motion / encore + swash / adagio 
+
+
+Best to worse imo
+Empirical
+Enigma’s 
+Peacebond / lonesome
+
+
+To look at: Empirical, peacebond
+To farm: Empirical (craft)
+Energy sidearms
+- Fool’s remedy: moving target / hipfire(high tier) + QD / eots / KC / rangefinder / iron gaze (if bad)
+- Punching out: overflow / wind / QD / rangefinder / threat / moving target / encore + capacitor / KC / swash 
+- Keening: probably delete
+- swift verdict: full auto / threat(high tier) / slideshot / wind + KC / rangefinder 
+- redback: motion / wind + opening shot
+- last dance: QD / moving target / threat / under pressure / full auto + KC / rangefinder / TTT
+- 7th seraph SI: full auto / threat / hipfire + capacitor
+- Vision: full auto / wind + KC / capacitor / swash
+- brass attacks: probably delete
+- Drang (curated): moving target + rampage
+
+
+Best to worse imo
+Fool’s
+Punching out / swift verdict
+7th / last dance
+
+
+To look at: Fool’s, punching out, swift verdict
+To farm: Swift verdict (proph enc 2), drang (quest/gunsmith)
+
+
+——————————————————————————————————————————
+
+
+Bows
+Bow’s roll in PvP: Massive damage per shot with low RPM. Lane-holding, team shot and/or swap weapon. 
+
+
+30%+ damage buff makes precision bows 1 shot head shot
+- 30%: Swashbuckler x5
+- 10+% + 20%: harmony / adagio / rampage  + emp rift, sunspot, hi energy fire
+Kinetic Bows
+- whispering slab: QD / firmly planted / tempo + opening shot 
+- fel taradiddle: motion / tempo + warmup / explosive head
+- biting winds: QD / moving target / no distractions + snapshot / explosive head
+- accrued redemption: tempo / QD / no distractions + moving target / explosive head
+
+
+Best to worse for SWAP PLAYSTYLE
+Winds
+Accrued / Slab
+
+
+Best to worse for GENERAL PLAY
+Fel
+Winds
+Accrued
+
+
+To look at: winds, redemption, fel
+To farm: fel (craft), redemption (gos enc 1)
+Energy bows
+- under your skin: firmly planted / motion / tempo + opening shot / warmup / explosive head
+- arsenic bite: QD / moving target / snapshot + explosive head / tempo
+- tyranny of heaven: moving target / tempo + snapshot / explosive head
+- point of the stag (curated): tempo + eots
+- imperial needle: QD / tempo + opening shot / swash
+- wolftone draw: tempo + harmony / adagio
+
+
+Best to worse for SWAP PLAYSTYLE
+Imp needle
+Arsenic bite
+
+
+Best to worse for GENERAL PLAY
+doe
